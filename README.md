@@ -40,7 +40,7 @@ He trabajado en **desarrollo de software** utilizando diversas tecnologías como
 ### Bases de Datos y Herramientas de Análisis:
 - ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png)
+- ![Power BI]
 
 ---
 
