@@ -44,16 +44,6 @@ He trabajado en **desarrollo de software** utilizando diversas tecnologías como
 
 ---
 
-## 📊 Mi Trabajo en Números
-
-![Working](https://media.giphy.com/media/l0MYu5JMpG62bT2A0/giphy.gif)
-
-- 🛠️ **+50 proyectos de automatización** con Power Automate.
-- 📊 **15 dashboards** interactivos con Power BI.
-- 💻 **Proyectos en diversas tecnologías**: PHP, Angular, C#, Java, JavaScript, TypeScript, Astro, Python.
-
----
-
 ## 🌟 Proyectos Destacados
 
 ### Automatización de Procesos Empresariales con Power Automate
@@ -78,14 +68,6 @@ He trabajado en **desarrollo de software** utilizando diversas tecnologías como
 
 Mi objetivo es continuar mi desarrollo profesional en el mundo del software y la tecnología, contribuyendo con soluciones innovadoras y eficaces a proyectos de automatización, desarrollo web y análisis de datos. Estoy abierto a nuevas oportunidades y siempre dispuesto a colaborar en proyectos emocionantes que marquen la diferencia.
 
-![End](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![End](https://static.wixstatic.com/media/9c808c_32d2e8877a334b3593c7120840168131~mv2.gif)
 
----
-
-### 💻 Tecnologías adicionales:
-
-- ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  
 ---
